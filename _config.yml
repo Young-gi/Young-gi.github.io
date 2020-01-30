@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "영기의 포트폴리오"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Young-gi"
-description              : "An amazing website."
+description              : "김영기의 포트폴리오 게시, 관련 공부를 정리해 둔 곳입니다."
 url                      : "https://Young-gi.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
